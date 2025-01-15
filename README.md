@@ -1,6 +1,7 @@
 #TO RUN / Needed libraries
-pygame
+
+pygame:
 pip install pygame
-(konsoliin tai terminaaliin)
+(Console or terminal)
 
 Keep photos in the same folder where the games code is located.
