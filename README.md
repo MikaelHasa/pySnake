@@ -1,5 +1,6 @@
-pyörittääkseen peli pitää ensin ladata pygame kirjasto
+#TO RUN / Needed libraries
+pygame
 pip install pygame
 (konsoliin tai terminaaliin)
 
-Pidä kuva-tiedostot samassa kansiossa python tideoston kanssa, muuten kaikki hajoaa
+Keep photos in the same folder where the games code is located.
